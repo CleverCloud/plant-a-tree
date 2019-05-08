@@ -1,0 +1,17 @@
+{
+  "name": "clevercloud-onboarder",
+  "version": "1.0.0",
+  "description": "Deploy this app on Clever Cloud to enter the draw!",
+  "main": "index.js",
+  "repository": "http://github.com/clevercloud/plant-a-tree",
+  "author": "Clever Cloud",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "node-rest-client": "^3.0.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
